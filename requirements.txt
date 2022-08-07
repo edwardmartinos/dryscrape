@@ -1,3 +1,4 @@
 lxml
 git+git://github.com/niklasb/webkit-server.git
+-e git+https://github.com/niklasb/webkit-server.git
 xvfbwrapper
